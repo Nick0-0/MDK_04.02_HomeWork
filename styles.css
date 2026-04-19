@@ -25,3 +25,10 @@ ul {
     font-size: 14pt;
     list-style-type: square;
 }
+button {
+	text-align: center;
+	font-size: 14pt;
+	font-family: Arial;
+	border-radius: 15pt;
+	border: green thick solid;
+}
