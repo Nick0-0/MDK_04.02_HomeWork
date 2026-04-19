@@ -1,0 +1,28 @@
+header {
+  text-align: center;
+}
+main {
+  margin-left: 300px;
+}
+footer {
+  text-align: right;
+}
+nav {
+  background-color: blanchedalmond;
+    float: left;
+    width: 200px;
+    margin: 10px 0px 10px 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1 {
+    font-family: Verdana;
+    font-size: 32pt;
+}
+p {
+    font-size: 14pt;
+}
+ul {
+    font-size: 14pt;
+    list-style-type: square;
+}
